@@ -12,5 +12,5 @@ def sayHello
 	puts "Hello #{@hello.Capitalize}"
 end
 
-
+puts 'this is the end'
 end
