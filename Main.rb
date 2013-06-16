@@ -13,4 +13,3 @@ end
 there=HelloWorld.new("hey", "there")
 puts there.goodbye
 puts hey.goodbye
-puts "Yo"
