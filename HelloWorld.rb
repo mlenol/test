@@ -1,5 +1,5 @@
 class HelloWorld
-def initialize(goodbye="IBM", hello="shopify")
+def initialize(goodbye="sun", hello="rain")
 	@goodbye=goodbye
 	@hello=hello
 	puts @goodbye
